@@ -9,8 +9,8 @@
     <string name="sign_in">Sign In</string>
     <string name="show_your_password">show your password</string>
     <string name="hide_your_password">hide your password</string>
-    <string name="email_hint">Enter your email address</string>
-    <string name="password_hint">Enter your password</string>
+    <string name="email_hint">Enter your Email address</string>
+    <string name="password_hint">Enter your Password</string>
     <string name="reset_password_title">Reset Password</string>
     <string name="reset_success_message">Great news! Your password has been successfully reset</string>
     <string name="reset_password_message_display">No worries, we’ll send you reset instructions</string>
