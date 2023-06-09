@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177840619572",
+    "project_id": "dicoding-mentoring-a593e",
+    "storage_bucket": "dicoding-mentoring-a593e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177840619572:android:a5eb17f9ba39ab5962ca61",
+        "android_client_info": {
+          "package_name": "dev.cisnux.dicodingmentoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177840619572-eoegff0ec3l60bluc8bkdrsj0nbgb05o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.cisnux.dicodingmentoring",
+            "certificate_hash": "8e6b82e3ca182655ca3988b9502e00f812f671d8"
+          }
+        },
+        {
+          "client_id": "177840619572-6608hbc9v9gmm2eb19vn07fds08jtv6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrp6n-n9-cXRyQ-dj6mvg9vYNznGyWaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177840619572-6608hbc9v9gmm2eb19vn07fds08jtv6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
